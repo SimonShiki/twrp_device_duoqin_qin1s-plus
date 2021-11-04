@@ -1,0 +1,1 @@
+LOCAL_PATH := device/duoqin/sp9820e_1h10
